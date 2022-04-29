@@ -18,3 +18,7 @@ This project is to design and create a 2-wheeled self balancing robot that can b
 - [Wheels](https://www.sparkfun.com/products/13259)
 - [Dual H-Bridge](https://www.sparkfun.com/products/14451)
 
+
+## Schematic
+![2022-04-29 16 44 05 docs google com 511927e96488](https://user-images.githubusercontent.com/55037136/166066730-9dda018b-f966-41b9-b5d9-93892dc0d661.jpg)
+
