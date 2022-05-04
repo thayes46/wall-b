@@ -26,3 +26,4 @@ This project is to design and create a 2-wheeled self balancing robot that can b
 [Main code](main.cpp)
 
 ## Demo video
+[External youtube link](https://www.youtube.com/watch?v=yGdUPbECllM)
